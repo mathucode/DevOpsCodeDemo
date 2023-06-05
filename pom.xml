@@ -8,11 +8,11 @@
     <version>2.0</version>
     <name>Vaadin Addressbook example</name>
     <distributionManagement>
-  <repository>
-    <id>DevOpsCodeDemo</id>
-    <url>https://repository-url</url>
-  </repository>
-</distributionManagement>
+      <repository>
+        <id>DevOpsCodeDemo</id>
+        <url>https://github.com/mathucode/DevOpsCodeDemo.git</url>
+      </repository>
+    </distributionManagement>
 
 
     <properties>
