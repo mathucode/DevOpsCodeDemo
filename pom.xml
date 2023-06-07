@@ -10,7 +10,7 @@
     <distributionManagement>
       <repository>
         <id>DevOpsCodeDemo</id>
-        <url>https://github.com/mathucode/DevOpsCodeDemo.git/src/main/java/com/mydemo/tutorial/addressbook</url>
+        <url>https://github.com/mathucode/DevOpsCodeDemo.git</url>
       </repository>
     </distributionManagement>
 
